@@ -1,14 +1,11 @@
-## Getting Started
+# Visual Studio CodeでJavaの開発
+(1).JDKのインストール
+(2).日本語化
+(3).拡張機能のインストール
+(4).Javaプロジェクトの作成
+(5).Javaアプリケーションの実行
+(6).クラス
+(7).main()メソッド
+(8).画面に文字を表示する
+(9>.Java開発の流れ
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
