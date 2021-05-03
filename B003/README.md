@@ -1,14 +1,7 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+# 3. 基本データ型の変換
+1. 暗黙的型変換
+	1. 拡大変換
+	1. 縮小変換
+1. 明示的型変換　キャスト
+	1. 浮動小数点から整数へのキャスト
+	1. 範囲を超えた数値のキャスト
