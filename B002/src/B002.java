@@ -1,4 +1,4 @@
-public class App {
+public class B002 {
     public static void main(String[] args) throws Exception {
         int countNum = 10;
         System.out.println(countNum);

@@ -1,10 +1,11 @@
-public class App {
+public class B004 {
     public static void main(String[] args) throws Exception {
         int score = 90;
         if(score >= 80){
             System.out.println("合格です");
         }
         System.out.println("処理を終了します");
+        
 
         //「if文」
         // int score = 70;

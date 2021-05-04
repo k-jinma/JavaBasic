@@ -1,4 +1,4 @@
-public class App {
+public class B003 {
     public static void main(String[] args) throws Exception {
         int iValue = 10;
         double dValue;
