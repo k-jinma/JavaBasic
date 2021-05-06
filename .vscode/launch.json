@@ -1,0 +1,69 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch B007",
+            "request": "launch",
+            "mainClass": "B007",
+            "projectName": "JavaBasic_3918baf6",
+            "console": "integratedTerminal",
+            "encoding": "UTF-8",
+            "args": [
+                "100",
+                "10"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch B001",
+            "request": "launch",
+            "mainClass": "B001",
+            "projectName": "JavaBasic_3918baf6"
+        },
+        {
+            "type": "java",
+            "name": "Launch B002",
+            "request": "launch",
+            "mainClass": "B002",
+            "projectName": "JavaBasic_3918baf6"
+        },
+        {
+            "type": "java",
+            "name": "Launch B003",
+            "request": "launch",
+            "mainClass": "B003",
+            "projectName": "JavaBasic_3918baf6"
+        },
+        {
+            "type": "java",
+            "name": "Launch B004",
+            "request": "launch",
+            "mainClass": "B004",
+            "projectName": "JavaBasic_3918baf6"
+        },
+        {
+            "type": "java",
+            "name": "Launch B005",
+            "request": "launch",
+            "mainClass": "B005",
+            "projectName": "JavaBasic_3918baf6"
+        },
+        {
+            "type": "java",
+            "name": "Launch B006",
+            "request": "launch",
+            "mainClass": "B006",
+            "projectName": "JavaBasic_3918baf6"
+        }
+    ]
+}
