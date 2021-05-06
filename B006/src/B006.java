@@ -37,7 +37,5 @@ public class B006 {
             goukei += seiseki[i];
         }
         System.out.println("科目の合計点は" + goukei + "点です");
-
-
     }
 }
