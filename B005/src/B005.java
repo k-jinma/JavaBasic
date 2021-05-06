@@ -27,5 +27,24 @@ public class B005 {
         for(i = 1; i <= 5; i++){
             System.out.println(i + "回繰り返し");
         }
+
+        //for文のネスト
+        for(i = 0; i < 2; i++){
+            for(j = 0; j < 3; j++){
+                System.out.println("i = " + i + " j = " + j);
+            }
+        }
+
+        //break文とcontinue文
+        for(i = 0; i < 4; i++){
+            if( i == 1 ){
+                System.out.println("continue");
+                continue;
+            }else if( i == 3 ){
+                System.out.println("break");
+                break;
+            }
+            System.out.println("i = " + i);
+        }
     }
 }
