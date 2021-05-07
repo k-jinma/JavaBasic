@@ -37,5 +37,27 @@ public class B006 {
             goukei += seiseki[i];
         }
         System.out.println("科目の合計点は" + goukei + "点です");
+
+        //2次元配列
+        int[][] multiArray = new int[3][3];
+        multiArray[0][0] = 10;
+        multiArray[0][1] = 20;
+        multiArray[0][2] = 30;
+        multiArray[1][0] = 40;
+
+        //3次元配列
+        int[][][] tripleArray = new int[3][3][3];
+        tripleArray[0][0][0] = 10;
+        tripleArray[0][0][1] = 20;
+        tripleArray[1][0][0] = 30;
+        tripleArray[2][0][1] = 40;
+
+        int[][] array = { {0, 1}, {2, 3, 4, 5}, {6, 7, 8} }; 
+        System.out.println(array.length);
+        System.out.println(array[0].length);
+        System.out.println(array[1].length);
+        System.out.println(array[2].length);
+
+
     }
 }
