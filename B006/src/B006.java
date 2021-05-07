@@ -58,6 +58,11 @@ public class B006 {
         System.out.println(array[1].length);
         System.out.println(array[2].length);
 
+        //拡張for文
+        String[] animals = {"dog", "cat", "fish"};
+        for( String str : animals ){
+            System.out.println("kind of pet : " + str);
+        }
 
     }
 }
