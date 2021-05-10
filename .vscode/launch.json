@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch B008",
+            "request": "launch",
+            "mainClass": "B008",
+            "projectName": "JavaBasic_3918baf6"
+        },
+        {
+            "type": "java",
             "name": "Launch B007",
             "request": "launch",
             "mainClass": "B007",
