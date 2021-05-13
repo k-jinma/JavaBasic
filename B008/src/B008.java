@@ -35,6 +35,11 @@ public class B008 {
         //合計金額計算した結果まで表示する
         item1.kingakuDisp(3, 50);
         
+        //参照型配列
+        Item[] items = { item1, new Item(2, "商品B", 200), new Item("商品C") };
+        System.out.println( items[0].name );
+        System.out.println( items[1].name );
+        System.out.println( items[2].name );
     }
 
 }
