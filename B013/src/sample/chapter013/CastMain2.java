@@ -1,4 +1,4 @@
-package sample.chapter13;
+package sample.chapter013;
 
 public class CastMain2 {
     public static void main(String[] args) {
