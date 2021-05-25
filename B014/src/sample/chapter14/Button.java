@@ -1,4 +1,4 @@
-package src.sample.chapter14;
+package sample.chapter14;
 
 public interface Button {
     int size = 100;

@@ -1,4 +1,4 @@
-package sample.chapter13;
+package src.sample.chapter13;
 
 public class Car {
     public void run(){

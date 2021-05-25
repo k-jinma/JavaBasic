@@ -1,4 +1,4 @@
-package src.sample.chapter14;
+package sample.chapter14;
 
 public class InterfaceMain {
     public static void main(String[] args) {
