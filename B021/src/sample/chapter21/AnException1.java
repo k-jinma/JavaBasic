@@ -1,7 +1,4 @@
 package sample.chapter21;
-
-import java.nio.charset.MalformedInputException;
-
 public class AnException1 {
     public static void main(String[] args) {
         int[] test;
