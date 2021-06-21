@@ -1,4 +1,4 @@
-public class B006 {
+public class B07 {
     public static void main(String[] args) throws Exception {
         int japaneseScore = 70;
         int englishScore = 90;

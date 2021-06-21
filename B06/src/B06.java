@@ -1,4 +1,4 @@
-public class B005 {
+public class B06 {
     public static void main(String[] args) throws Exception {
         //「while文」
         int i = 1;
