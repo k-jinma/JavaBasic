@@ -1,4 +1,4 @@
-public class B004 {
+public class B05 {
     public static void main(String[] args) throws Exception {
         int score = 90;
         if(score >= 80){
@@ -7,7 +7,7 @@ public class B004 {
         System.out.println("処理を終了します");
         
 
-        //「if文」
+        // 「if文」
         // int score = 70;
         // if(score >= 80){
         //     System.out.println("合格です");
@@ -80,7 +80,26 @@ public class B004 {
         //         System.out.println("cです");
         //         break;
         //     default:
-        //         System.out.println("cです");
+        //         System.out.println("a,b,c以外です");
+        //         break;
+        // }
+
+        // int num = 4;
+        // switch (num) {
+        //     case 1:
+        //     case 2:
+
+        //         System.out.println("処理Aを実行します");
+        //         break;
+
+        //     case 3:
+        //     case 4:
+        //     case 5:
+        //         System.out.println("処理Bを実行します");
+        //         break;
+
+        //     default:
+        //         System.out.println("処理を実行できませんでした");
         //         break;
         // }
 

@@ -1,4 +1,4 @@
-public class B002 {
+public class B03 {
     public static void main(String[] args) throws Exception {
         int countNum = 10;
         System.out.println(countNum);

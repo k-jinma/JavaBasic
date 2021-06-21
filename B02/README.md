@@ -1,4 +1,4 @@
-# 1. Visual Studio CodeでJavaの開発
+# 2. Visual Studio CodeでJavaの開発
 1. JDKのインストール
 2. 日本語化
 3. 拡張機能のインストール
