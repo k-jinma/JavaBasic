@@ -8,7 +8,7 @@ public class B07 {
         System.out.println(mathScore);
 
         //配列の宣言
-        int [] seiseki;
+        int[] seiseki;
         
         //要素数の確保
         seiseki = new int[3];
