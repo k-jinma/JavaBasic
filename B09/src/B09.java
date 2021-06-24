@@ -1,4 +1,4 @@
-public class B008 {
+public class B09 {
     public static void main(String[] args) throws Exception {
         Flower flower1 = new Flower();
         flower1.name = "ひまわり";
