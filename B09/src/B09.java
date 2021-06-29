@@ -1,23 +1,23 @@
 public class B09 {
     public static void main(String[] args) throws Exception {
-        Flower flower1 = new Flower();
-        flower1.name = "ひまわり";
-        flower1.color = "黄色";
+        Flower himawari = new Flower();
+        himawari.name = "ひまわり";
+        himawari.color = "黄色";
 
-        Flower flower2 = new Flower();
-        flower2.name = "たんぽぽ";
-        flower2.color = "黄色";
+        Flower tanpopo = new Flower();
+        tanpopo.name = "たんぽぽ";
+        tanpopo.color = "黄色";
 
-        Flower flower3 = new Flower();
-        flower3.name = "あじさい";
-        flower3.color = "紫";
+        Flower ajisai = new Flower();
+        ajisai.name = "あじさい";
+        ajisai.color = "紫";
         
-        System.out.println(flower1.name);
-        System.out.println(flower1.color);
-        System.out.println(flower2.name);
-        System.out.println(flower2.color);
-        System.out.println(flower3.name);
-        System.out.println(flower3.color);
+        System.out.println(himawari.name);
+        System.out.println(himawari.color);
+        System.out.println(tanpopo.name);
+        System.out.println(tanpopo.color);
+        System.out.println(ajisai.name);
+        System.out.println(ajisai.color);
 
         //商品1のオブジェクト（インスタンス）を生成する
         // Item item1 = new Item();
