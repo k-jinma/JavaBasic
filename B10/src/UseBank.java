@@ -10,6 +10,5 @@ public class UseBank {
         int nowMoney = bank.getMoney();
         System.out.println("現在の所持金：" + nowMoney );
 
-
     }
 }
