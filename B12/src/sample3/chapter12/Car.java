@@ -1,4 +1,4 @@
-package sample3.chapter011;
+package sample3.chapter12;
 
 public class Car {
     private int fuel;   //燃料

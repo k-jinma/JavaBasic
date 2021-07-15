@@ -1,4 +1,4 @@
-package sample3.chapter011;
+package sample3.chapter12;
 
 public class Taxi extends Car {
     private int fare;   //料金

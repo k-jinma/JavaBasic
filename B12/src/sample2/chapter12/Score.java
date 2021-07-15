@@ -1,4 +1,4 @@
-package sample2.chapter011;
+package sample2.chapter12;
 
 public class Score {
     int data;

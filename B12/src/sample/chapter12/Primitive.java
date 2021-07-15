@@ -1,4 +1,4 @@
-package sample.chapter011;
+package sample.chapter12;
 
 public class Primitive {
     public static void main(String[] args) {
