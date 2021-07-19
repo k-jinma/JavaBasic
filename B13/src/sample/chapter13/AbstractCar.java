@@ -1,4 +1,4 @@
-package sample.chapter012;
+package sample.chapter13;
 
 public abstract class AbstractCar {
     private int fuel;   //燃料

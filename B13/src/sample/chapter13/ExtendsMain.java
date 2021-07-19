@@ -1,4 +1,4 @@
-package sample.chapter012;
+package sample.chapter13;
 
 public class ExtendsMain {
     public static void main(String[] args) {
@@ -8,11 +8,11 @@ public class ExtendsMain {
         taxi.setData(4, 60);
         taxi.disp();
 
-        //サブクラスで定義されているメソッド
+        //サブクラスで追加定義されているメソッド
         taxi.setFare(1000);
         taxi.dispFare();
 
-        //スーパークラスで定義されているメソッド
+        //スーパークラスの抽象メソッドがサブクラスでオーバーライドされて実装されたメソッド
         taxi.run();
         
     }
